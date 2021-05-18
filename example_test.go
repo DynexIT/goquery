@@ -2,12 +2,11 @@ package goquery_test
 
 import (
 	"fmt"
+	"github.com/DynexIT/goquery"
 	"log"
 	"net/http"
 	"os"
 	"strings"
-
-	"github.com/PuerkitoBio/goquery"
 )
 
 // This example scrapes the reviews shown on the home page of metalsucks.net.
